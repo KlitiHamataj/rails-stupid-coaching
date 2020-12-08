@@ -1,0 +1,27 @@
+
+a {
+  color: grey;
+  &:hover {
+    color: black;
+  }
+}
+
+.question{
+  p {
+    font-size: 20px;
+  }
+  &:hover {
+    background: #eaeaea;
+  }
+}
+
+.answer {
+  background: #FFFEE1;
+  p {
+    font-size: 20px;
+  }
+}
+
+.container {
+  padding-top: 24px;
+}
